@@ -10,8 +10,8 @@ All instructions can be found at [draculatheme.com](https://draculatheme.com/).
 
 Palette      | Hex       | RGB           | HSL             | [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 ---          | ---       | ---           | ---             | ---
-Background   | `#323236` | `50 50 54`    | `240° 4% 20%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/static/img/color-boxes/foreground.png)
+Background   | `#323236` | `50 50 54`    | `240° 4% 20%`  | ![Background Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/323236.png)
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/f8f8f2.png)
 Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/static/img/color-boxes/current_line.png)
 Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://draculatheme.com/static/img/color-boxes/selection.png)
 Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![Comment Color](https://draculatheme.com/static/img/color-boxes/comment.png)
