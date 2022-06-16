@@ -8,7 +8,7 @@ All instructions can be found at [draculatheme.com](https://draculatheme.com/).
 
 ## Color Palette
 
-Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://www.w3schools.com/colors/colors_picker.asp)
+Palette      | Hex       | RGB           | HSL             | [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 ---          | ---       | ---           | ---             | ---
 Background   | `#323236` | `50 50 54`    | `240° 4% 20%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
 Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/static/img/color-boxes/current_line.png)
