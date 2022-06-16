@@ -2,17 +2,15 @@
 
 ![Dracula](https://draculatheme.com/static/img/dracula.gif)
 
-> A dark theme for [Atom](http://atom.io/), [Alfred](http://www.alfredapp.com/), [Emacs](https://www.gnu.org/software/emacs/), [Highlight.js](https://highlightjs.org/), [Hyper](https://hyper.is/), [iTerm](http://www.iterm2.com/), [JetBrains](https://www.jetbrains.com/), [Pygments](http://pygments.org/), [Slack](http://slack.com), [Sublime Text](http://www.sublimetext.com/3), [TextMate](http://macromates.com/), [Terminal.app](http://www.apple.com/osx/apps), [Vim](http://www.vim.org/), [Xcode](https://itunes.apple.com/us/app/xcode/id497799835), [Zsh](http://www.zsh.org/) and many more.
-
 ## Install
 
 All instructions can be found at [draculatheme.com](https://draculatheme.com/).
 
 ## Color Palette
 
-Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/static/img/color-boxes/eyedropper.png)
+Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://www.w3schools.com/colors/colors_picker.asp)
 ---          | ---       | ---           | ---             | ---
-Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
+Background   | `#323236` | `50 50 54`    | `240° 4% 20%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
 Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/static/img/color-boxes/current_line.png)
 Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://draculatheme.com/static/img/color-boxes/selection.png)
 Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/static/img/color-boxes/foreground.png)
