@@ -10,13 +10,16 @@ All instructions can be found at [draculatheme.com](https://draculatheme.com/).
 
 Palette      | Hex       | RGB           | HSL             | [Color Picker](https://www.w3schools.com/colors/colors_picker.asp)
 ---          | ---       | ---           | ---             | ---
-Background   | `#323236` | `50 50 54`    | `240° 4% 20%`  | ![Background Color](https://draculatheme.com/static/img/color-boxes/background.png)
-Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/static/img/color-boxes/foreground.png)
+Background   | `#323236` | `50 50 54`    | `240° 4% 20%`   | ![Background Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/323236.png)
+Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/f8f8f2.png)
 Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/static/img/color-boxes/current_line.png)
-Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://draculatheme.com/static/img/color-boxes/selection.png)
+Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/44475a.png)
+Field        | `#1E9347` | `30 147 71`   | `141° 66% 35%`  | ![Foreground Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/1E9347.png)
+Java
 Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![Comment Color](https://draculatheme.com/static/img/color-boxes/comment.png)
+Keyword      | `#1a8cff` | `51 153 255`  | `210° 100% 60%` | ![Comment Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/1a8cff.png)
+Identifier   | `#00cccc` | `0 204 204`   | `180° 100% 40%` | ![Foreground Color](https://github.com/AnhVo-01/Netbeans-dark-theme/blob/main/images/00cccc.png)
 Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  | ![Cyan Color](https://draculatheme.com/static/img/color-boxes/cyan.png)
-Green        | `#50fa7b` | `80 250 123`  | `135° 94% 65%`  | ![Green Color](https://draculatheme.com/static/img/color-boxes/green.png)
 Orange       | `#ffb86c` | `255 184 108` | `31° 100% 71%`  | ![Orange Color](https://draculatheme.com/static/img/color-boxes/orange.png)
 Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://draculatheme.com/static/img/color-boxes/pink.png)
 Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/static/img/color-boxes/purple.png)
